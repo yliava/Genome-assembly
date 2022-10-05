@@ -53,5 +53,4 @@
 ![fastqc_adapter_content_plot (1)](https://user-images.githubusercontent.com/90405153/194135439-56c5d7e5-ed20-422e-8799-d26a22a26c98.png)
 
 # Google Colab
-https://colab.research.google.com/drive/1iYPaxl4C9woSE8TpFSUiYQYUT5oYekVX?usp=sharing
-
+https://colab.research.google.com/drive/1njmahcug2F5nrRNFImCK0lBagXx7OBcR?usp=sharing
